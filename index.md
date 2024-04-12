@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan](https://gpantju.github.io/index/). Currently, I am working as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). I'm passionate about exploring Multimodal Machine Learning, Natural Language Processing and Computer Vision. Recently, I focus on activating the potential of large language models in more complex multimodal tasks. 
+I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan](https://gpantju.github.io/index/). Currently, I am working as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). I'm passionate about exploring Multimodal Machine Learning. Recently, I focus on activating the potential of large language models in more complex multimodal tasks. 
 
 ## Research Interests
 
