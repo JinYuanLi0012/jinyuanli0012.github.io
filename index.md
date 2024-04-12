@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year master's student at Tianjin University, under the mentorship of Dr. [Gang Pan](https://gpantju.github.io/index/). Presently, I'm engaged as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). My enthusiasm lies in exploring Multimodal Machine Learning, and my recent endeavors revolve around unleashing the latent capabilities of large language models within intricate multimodal tasks.
+I'm a second-year master's student at Tianjin University, under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Presently, I'm engaged as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). My enthusiasm lies in exploring Multimodal Machine Learning, and my recent endeavors revolve around unleashing the latent capabilities of large language models within intricate multimodal tasks.
 
 ## Research Interests
 
