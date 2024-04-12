@@ -8,15 +8,14 @@ I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan
 
 ## Research Interests
 
-- **Multimodal Machine Learning:** Visual Language Model, Open-Vocabulary Object Detection
+- **Multimodal Machine Learning:** Vision Language Model, Open-Vocabulary Object Detection
 - **Natural Language Processing:** Large Language Model, Multimodal Information Extraction
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2024]** Very happy to join Baidu as a Computer Vision research intern.
+- **[Feb. 2024]** A new research about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Model has been released! see [here](https://arxiv.org/abs/2402.09989).
+- **[Oct. 2023]** Our paper about Multimodal Named Entity Recognition (MNER) is accepted to Findings of EMNLP 2023.
 
 {% include_relative _includes/publications.md %}
 
