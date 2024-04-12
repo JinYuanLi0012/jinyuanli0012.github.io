@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan](https://gpantju.github.io/index/). Currently, I am working as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). My research interests lie in the areas of Multimodal Machine Learning and Natural Language Processing. Recently, I focus on activating the potential of large language models in more complex multimodal tasks. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multimodal Machine Learning:** image recognition, image generation, video captioning
+- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
 
 ## News
 
