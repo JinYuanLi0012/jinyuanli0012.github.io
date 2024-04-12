@@ -18,7 +18,7 @@ main:
     pdf: https://arxiv.org/abs/2305.12212
     code: https://github.com/JinYuanLi0012/PGIM
     video: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/qr13w2x/PGIM.mp4
-    #page: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/3623wgo/PGIM%20poster.pdf
+    poster: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/3623wgo/PGIM%20poster.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3XYFxGNSGogJ:scholar.google.com/&output=citation&scisdr=ClFsn76QELv1n7TEccM:AFWwaeYAAAAAZhjCacP-8V3xqNMOV060DtxSmFs&scisig=AFWwaeYAAAAAZhjCaSzmbxb1Q8YAMXA92Rykpw4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/PGIM.png
     notes: Published
