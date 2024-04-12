@@ -19,10 +19,14 @@ I'm a second-year master's student at Tianjin University, under the mentorship o
 
 {% include_relative _includes/publications.md %}
 
+## Experience
+
+- **[Apr. 2024 -]** Baidu, [TPG](https://www.paddlepaddle.org.cn/), Research Intern
+
 ## Awards & Honors
 
 - **[2022, 2023]** Second-class academic Scholarship
-- **[2021]** Outstanding Students of Taiyuan University of Technology, 2021 (Top 2%)
+- **[2021]** Outstanding Students of Taiyuan University of Technology (Top 2%)
 
 
 {% include_relative _includes/services.md %}
