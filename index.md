@@ -8,7 +8,7 @@ I'm a second-year master's student at Tianjin University, under the mentorship o
 
 ## Research Interests
 
-- **Natural Language Processing:** Vision-Language Model, Multimodal Information Extraction
+- **Natural Language Processing:** Large Vision-Language Model, Multimodal Information Extraction
 - **Computer Vision:** Open-Vocabulary Object Detection, Referring Expression Comprehension and Segmentation, Image Inpainting
 
 ## News
