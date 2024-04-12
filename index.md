@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan](https://gpantju.github.io/index/). Currently, I am working as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). I'm passionate about exploring Multimodal Machine Learning. Recently, I focus on activating the potential of large language models in more complex multimodal tasks. 
+I'm a second-year master's student at Tianjin University, under the mentorship of Dr. [Gang Pan](https://gpantju.github.io/index/). Presently, I'm engaged as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). My enthusiasm lies in exploring Multimodal Machine Learning, and my recent endeavors revolve around unleashing the latent capabilities of large language models within intricate multimodal tasks.
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan
 
 ## News
 
-- **[Apr. 2024]** Very happy to join Baidu as a Computer Vision research intern.
+- **[Apr. 2024]** Delighted to be onboard at Baidu as a Computer Vision research intern.
 - **[Feb. 2024]** A new research about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Model has been released! see [here](https://arxiv.org/abs/2402.09989).
 - **[Oct. 2023]** One paper about Multimodal Named Entity Recognition (MNER) is accepted to Findings of EMNLP 2023.
 
