@@ -9,7 +9,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://arxiv.org/abs/2402.09989
     notes: In progress
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/RiVEG.jpg
     
   - title: "Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge"
     authors: <strong>Jinyuan Li</strong>, Han Li, Zhuo Pan, Di Sun, Jiahao Wang, Wenkun Zhang, Gang Pan
