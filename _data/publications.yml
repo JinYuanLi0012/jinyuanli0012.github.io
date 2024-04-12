@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge"
+    authors: <strong>Jinyuan Li</strong>, Han Li, Zhuo Pan, Di Sun, Jiahao Wang, Wenkun Zhang, Gang Pan
+    conference_short: EMNLP
+    conference: Findings of the Association for Computational Linguistics: EMNLP 2023 <strong>(EMNLP)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2305.12212
+    code: https://github.com/JinYuanLi0012/PGIM
+    bibtex: https://arxiv.org/abs/2305.12212
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Published
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
