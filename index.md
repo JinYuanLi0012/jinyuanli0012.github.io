@@ -8,8 +8,8 @@ I am a second-year master student at Tianjin University, guided by Dr. [Gang Pan
 
 ## Research Interests
 
-- **Multimodal Machine Learning:** image recognition, image generation, video captioning
-- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
+- **Multimodal Machine Learning:** Visual Language Model, Open-Vocabulary Object Detection
+- **Natural Language Processing:** Large Language Model, Multimodal Information Extraction
 
 ## News
 
