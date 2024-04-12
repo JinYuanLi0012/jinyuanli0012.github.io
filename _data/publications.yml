@@ -20,7 +20,7 @@ main:
     video: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/qr13w2x/PGIM.mp4
     poster: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/3623wgo/PGIM%20poster.pdf
     bibtex: https://arxiv.org/abs/2305.12212
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/PGIM.png
     notes: Published
 
 
