@@ -14,11 +14,11 @@ main:
   - title: "Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge"
     authors: <strong>Jinyuan Li</strong>, Han Li, Zhuo Pan, Di Sun, Jiahao Wang, Wenkun Zhang, Gang Pan
     conference_short: EMNLP
-    conference: Findings of the Association for Computational Linguistics: EMNLP 2023 <strong>(EMNLP)</strong>, 2023.
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2023.
     pdf: https://arxiv.org/abs/2305.12212
     code: https://github.com/JinYuanLi0012/PGIM
-    # video: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/qr13w2x/PGIM.mp4
-    # poster: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/3623wgo/PGIM%20poster.pdf
+    video: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/qr13w2x/PGIM.mp4
+    poster: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/3623wgo/PGIM%20poster.pdf
     bibtex: https://arxiv.org/abs/2305.12212
     image: ./assets/img/teaser_example_2.png
     notes: Published
