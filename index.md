@@ -6,7 +6,6 @@ layout: homepage
 
 I am a second-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Currently, I am engaging as a research intern at [Baidu](https://www.paddlepaddle.org.cn/). My enthusiasm lies in exploring Multimodal Machine Learning, and my recent endeavors revolve around unleashing the latent capabilities of large language models within intricate multimodal tasks.
 
-<span style="color:red;">I'm looking for a Ph.D. position starting from Spring/Fall 2025. Feel free to contact me if you are interested!</span>
 
 ## Research Interests
 
