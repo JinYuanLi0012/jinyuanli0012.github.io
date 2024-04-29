@@ -10,7 +10,7 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 ## Research Interests
 
 - **Natural Language Processing:** Large Vision-Language Model and Application, Multimodal Information Extraction
-- **Computer Vision:** Real-world Visual Understanding (Open-Vocabulary Object Detection, Referring Expression Comprehension and Segmentation etc), Image Inpainting and Synthesis
+- **Computer Vision:** Real-World Visual Understanding (Open-Vocabulary Object Detection, Referring Expression Comprehension and Segmentation etc), Image Inpainting and Synthesis
 
 ## News
 
@@ -29,8 +29,10 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 - **[2022, 2023]** Second-class academic Scholarship
 - **[2021]** Outstanding Students of Taiyuan University of Technology (Top 2%)
 
+
+{% include_relative _includes/services.md %}
+
 ## Others
 I enjoy swimming and violin. They have been with me for nearly twenty years.
 
 
-{% include_relative _includes/services.md %}
