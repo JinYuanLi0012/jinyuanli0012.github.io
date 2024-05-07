@@ -14,7 +14,7 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 
 ## News
 
-- **[Apr. 2024]** Delighted to be onboard at Baidu as a Computer Vision research intern.
+- **[Apr. 2024]** Delighted to be onboard at Baidu as a research intern.
 - **[Feb. 2024]** A new research about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Models has been released! see [here](https://arxiv.org/abs/2402.09989).
 - **[Oct. 2023]** One paper about Multimodal Named Entity Recognition (MNER) is accepted to Findings of EMNLP 2023.
 
