@@ -5,7 +5,7 @@ main:
     conference_short: ACL
     conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024
     pdf: https://arxiv.org/abs/2402.09989
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/JinYuanLi0012/RiVEG
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PC5aOA7dvNIJ:scholar.google.com/&output=citation&scisdr=ClFsn76QELv1n7TE8BI:AFWwaeYAAAAAZhjC6BLEUuWG-sdGUWgbAnB-q3s&scisig=AFWwaeYAAAAAZhjC6M0_s-FNO8uHxCwcXQx5uwA&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     notes: Published
