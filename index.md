@@ -23,7 +23,7 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 
 ## Experience
 
-- **[Apr. 2024 -]** Baidu, [TPG](https://www.paddlepaddle.org.cn/), Research Intern
+- **[Apr. 2024 -]** [Baidu](https://www.paddlepaddle.org.cn/), Research Intern
 
 ## Awards & Honors
 
