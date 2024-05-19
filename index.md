@@ -9,8 +9,8 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 
 ## Research Interests
 
-- **Natural Language Processing:** Large Vision-Language Model and Application, Multimodal Information Extraction
-- **Computer Vision:** Real-World Visual Understanding (Open-Vocabulary Object Detection, Referring Expression Comprehension and Segmentation etc), Image Inpainting and Synthesis
+- **Natural Language Processing:** Large Vision-Language Model Fundation and Application, Multimodal Information Extraction
+- **Computer Vision:** Open-world Visual Intelligence, Image Inpainting and Synthesis
 
 ## News
 
