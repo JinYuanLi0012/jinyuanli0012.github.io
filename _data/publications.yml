@@ -3,7 +3,7 @@ main:
   - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
     authors: <strong>Jinyuan Li</strong>, Han Li, Di Sun, Jiahao Wang, Wenkun Zhang, Zan Wang, Gang Pan
     conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024
+    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024, Bangkok, Thailand
     pdf: https://arxiv.org/abs/2402.09989
     code: https://github.com/JinYuanLi0012/RiVEG
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -14,7 +14,7 @@ main:
   - title: "Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge"
     authors: <strong>Jinyuan Li</strong>, Han Li, Zhuo Pan, Di Sun, Jiahao Wang, Wenkun Zhang, Gang Pan
     conference_short: EMNLP
-    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2023
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2023, Singapore
     pdf: https://arxiv.org/abs/2305.12212
     code: https://github.com/JinYuanLi0012/PGIM
     video: https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-26/qr13w2x/PGIM.mp4
