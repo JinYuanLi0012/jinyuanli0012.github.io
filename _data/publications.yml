@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/
     code: https://github.com/JinYuanLi0012/RiVEG
     bibtex: https://arxiv.org/abs/
-    image: ./assets/img/RiVEG2.jpg
+    image: ./assets/img/RiVEG2.pdf
     notes: In progress
 
   - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
