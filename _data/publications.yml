@@ -8,7 +8,7 @@ main:
     code: https://github.com/JinYuanLi0012/RiVEG
     bibtex: https://arxiv.org/abs/
     image: ./assets/img/RiVEG2.jpg
-    notes: In progress
+    notes: In Progress
 
   - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
     authors: <strong>Jinyuan Li</strong>, Han Li, Di Sun, Jiahao Wang, Wenkun Zhang, Zan Wang, Gang Pan
