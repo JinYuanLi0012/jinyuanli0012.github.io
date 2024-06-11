@@ -14,7 +14,7 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 
 ## News🔥
 
-- **[Jun. 2024]** A new study has been released! Based on our previous work, we propose a new Segmented Multimodal Named Entity Recognition (SMNER) task and construct the corresponding Twitter-SMNER dataset.  Datasets and Code will be released at [here](https://github.com/JinYuanLi0012/RiVEG).
+- **[Jun. 2024]** We release a new study proposing the Segmented Multimodal Named Entity Recognition (SMNER) task and constructing the corresponding Twitter-SMNER dataset. Datasets and Code will be released at [here](https://github.com/JinYuanLi0012/RiVEG).
 - **[May. 2024]** One paper is accepted to [ACL 2024](https://2024.aclweb.org/). See you in Bangkok!
 - **[Apr. 2024]** Delighted to be onboard at Baidu as a research intern.
 - **[Feb. 2024]** A new research about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Models has been released! see [here](https://arxiv.org/abs/2402.09989).
