@@ -1,5 +1,15 @@
 main:
 
+  - title: "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation"
+    authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
+    conference_short: arxiv
+    conference: arxiv, 2024
+    pdf: https://arxiv.org/abs/
+    code: https://github.com/JinYuanLi0012/RiVEG
+    bibtex: https://arxiv.org/abs/
+    image: ./assets/img/RiVEG2.jpg
+    notes: In progress
+
   - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
     authors: <strong>Jinyuan Li</strong>, Han Li, Di Sun, Jiahao Wang, Wenkun Zhang, Zan Wang, Gang Pan
     conference_short: ACL
