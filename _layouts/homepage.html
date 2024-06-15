@@ -40,7 +40,9 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" style="width: 160px; height: 160px;" /></a>
+        <a class="image avatar" style="display: inline-block; width: 160px; height: 160px; overflow: hidden; position: relative;">
+        <img src="{{ site.avatar }}" alt="avatar" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
+        </a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
