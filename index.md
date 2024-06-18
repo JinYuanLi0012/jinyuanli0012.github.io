@@ -26,11 +26,6 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 
 - **[Apr. 2024 -]** [Baidu](https://www.paddlepaddle.org.cn/en), Research Intern
 
-## Awards & Honors
-
-- **[2022, 2023]** Second-class academic Scholarship
-- **[2021]** Outstanding Students of Taiyuan University of Technology (Top 2%)
-
 
 {% include_relative _includes/services.md %}
 
