@@ -12,6 +12,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition/"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
 </ul>
 
