@@ -31,6 +31,6 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 {% include_relative _includes/services.md %}
 
 ## Others
-I enjoy swimming and violin. They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. Hope to hear his concert in Beijing in August. 
+When I’m not in research mode, I enjoy swimming and violin. They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. Hope to hear his concert in Beijing in August. 
 
 
