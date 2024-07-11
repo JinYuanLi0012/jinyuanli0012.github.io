@@ -34,5 +34,8 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 When I’m not in research mode, I enjoy swimming and violin. They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. Hope to hear his concert in Beijing in August. 
 <div class="photos">
   <img src="/assets/img/ljy.png" alt="Description of Photo 1" style="width:200px; margin:10px;">
+  <img src="/path/to/photo2.jpg" alt="Description of Photo 2" style="width:200px; margin:10px;">
+  <img src="/path/to/photo3.jpg" alt="Description of Photo 3" style="width:200px; margin:10px;">
+</div>
 </div>
 
