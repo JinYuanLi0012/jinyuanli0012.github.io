@@ -37,9 +37,10 @@ In the past, I demonstrated strong road cycling capabilities, maintaining a spee
 
 To those most beautiful moments.
 <div class="photos">
-  <img src="/assets/img/LJY_1.jpg" alt="Description of Photo 1" style="width:200px; margin:10px;">
-  <img src="/assets/img/LJY_3.jpg" alt="Description of Photo 2" style="width:200px; margin:10px;">
-  <img src="/path/to/photo3.jpg" alt="Description of Photo 3" style="width:200px; margin:10px;">
+  <img src="/assets/img/LJY_1.jpg" alt="Description of Photo 1" style="width:519px; margin:10px;">
+  <img src="/assets/img/LJY_6.jpg" alt="Description of Photo 3" style="width:352px; margin:10px;">
+  <img src="/assets/img/LJY_5.jpg" alt="Description of Photo 3" style="width:350px; margin:10px;">
+  <img src="/assets/img/LJY_3.jpg" alt="Description of Photo 3" style="width:350px; margin:10px;">
 </div>
 </div>
 
