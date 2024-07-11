@@ -31,10 +31,14 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 {% include_relative _includes/services.md %}
 
 ## Miscellaneous
-When I’m not in research mode, I enjoy swimming and violin. They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. Hope to hear his concert in Beijing in August. 
+When I'm not immersed in research, I enjoy swimming and playing the violin. I can swim one kilometer freestyle in less than 18 minutes, and I have fluent sight-reading skills on the violin, which I have been playing for nearly twenty years. My favorite virtuoso is Ray Chen, and I hope to attend his concert in Beijing this August.
+
+In the past, I demonstrated strong road cycling capabilities, maintaining a speed of 36 km/h for three hours. Additionally, I find hosting to be very engaging.
+
+To those most beautiful moments.
 <div class="photos">
-  <img src="/assets/img/ljy.png" alt="Description of Photo 1" style="width:200px; margin:10px;">
-  <img src="/path/to/photo2.jpg" alt="Description of Photo 2" style="width:200px; margin:10px;">
+  <img src="/assets/img/LJY_1.jpg" alt="Description of Photo 1" style="width:200px; margin:10px;">
+  <img src="/assets/img/LJY_3.jpg" alt="Description of Photo 2" style="width:200px; margin:10px;">
   <img src="/path/to/photo3.jpg" alt="Description of Photo 3" style="width:200px; margin:10px;">
 </div>
 </div>
