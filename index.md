@@ -36,11 +36,16 @@ When I'm not immersed in research, I enjoy swimming and playing the violin. I ca
 In the past, I demonstrated strong road cycling capabilities, maintaining a speed of 36 km/h for three hours. Additionally, I find hosting to be very engaging.
 
 To those most beautiful moments.
-<div class="photos">
-  <img src="/assets/img/LJY_1.jpg" alt="Description of Photo 1" style="width:519px; margin:10px;">
-  <img src="/assets/img/LJY_6.jpg" alt="Description of Photo 3" style="width:352px; margin:10px;">
-  <img src="/assets/img/LJY_5.jpg" alt="Description of Photo 3" style="width:350px; margin:10px;">
-  <img src="/assets/img/LJY_3.jpg" alt="Description of Photo 3" style="width:350px; margin:10px;">
+
+<div style="display: flex;">
+  <img src="/assets/img/LJY_1.jpg" alt="Image 1" width="50%" />
+  <img src="/assets/img/LJY_3.jpg" alt="Image 2" width="50%" />
 </div>
+
+<br>
+
+<div style="display: flex;">
+  <img src="/assets/img/LJY_6.jpg" alt="Image 1" width="50%" />
+  <img src="/assets/img/LJY_5.jpg" alt="Image 2" width="50%" />
 </div>
 
