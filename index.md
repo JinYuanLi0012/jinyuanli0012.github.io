@@ -33,7 +33,7 @@ I am a second-year master's student at [Tianjin University](https://www.tju.edu.
 ## Miscellaneous
 When I'm not immersed in research, I enjoy swimming and playing the violin. I can swim one kilometer freestyle in less than 18 minutes, and I have fluent sight-reading skills on the violin, which I have been playing for nearly twenty years. My favorite virtuoso is Ray Chen, and I hope to attend his concert in Beijing this August.
 
-In the past, I demonstrated strong road cycling capabilities, maintaining a speed of 36 km/h for three hours. Additionally, I find hosting to be very engaging.
+In the past, I demonstrated strong road cycling capabilities, maintaining a speed of 36 km/h for three hours. Additionally, I found being an anchor very engaging.
 
 To those most beautiful moments.
 
