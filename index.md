@@ -35,7 +35,7 @@ When I’m not in research mode, I enjoy swimming (Swim one kilometer freestyle 
 
 In the past, I demonstrated strong road cycling capabilities, maintaining a speed of 36 km/h for three hours. Additionally, I found being an anchor very engaging.
 
-To those most beautiful moments.
+To the very best of times.
 
 <div style="display: flex;">
   <img src="/assets/img/LJY_1_new.jpg" alt="Image 1" width="25%" />
