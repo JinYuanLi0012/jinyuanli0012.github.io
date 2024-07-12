@@ -38,14 +38,9 @@ In the past, I demonstrated strong road cycling capabilities, maintaining a spee
 To those most beautiful moments.
 
 <div style="display: flex;">
-  <img src="/assets/img/LJY_1_new.jpg" alt="Image 1" width="50%" />
-  <img src="/assets/img/LJY_5_new.jpg" alt="Image 2" width="50%" />
-</div>
-
-<br>
-
-<div style="display: flex;">
-  <img src="/assets/img/LJY_3_new.jpg" alt="Image 1" width="50%" />
-  <img src="/assets/img/LJY_6.jpg" alt="Image 2" width="50%" />
+  <img src="/assets/img/LJY_1_new.jpg" alt="Image 1" width="25%" />
+  <img src="/assets/img/LJY_5_new.jpg" alt="Image 2" width="25%" />
+  <img src="/assets/img/LJY_3_new.jpg" alt="Image 1" width="25%" />
+  <img src="/assets/img/LJY_6.jpg" alt="Image 2" width="25%" />
 </div>
 
