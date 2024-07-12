@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Previously, I worked as a research intern at [Baidu](https://www.paddlepaddle.org.cn/en) and explored multimodal document understanding. My enthusiasm lies in exploring multimodal machine learning and my recent endeavors revolve around unleashing the latent capabilities of vision-language models within intricate multimodal tasks. The ultimate goal of my research is to explore multimodal foundational models with higher levels of visual and language intelligence.
+I am a second-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Previously, I worked as a research intern at [Baidu](https://www.paddlepaddle.org.cn/en) and explored multimodal document understanding. My enthusiasm lies in exploring multimodal machine learning and my recent endeavors revolve around unleashing the latent capabilities of vision-language models within intricate multimodal tasks. The ultimate goal of my research is to explore the multimodal foundational system with higher levels of visual and language intelligence.
 
 
 
