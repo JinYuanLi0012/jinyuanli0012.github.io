@@ -1,7 +1,7 @@
 main:
 
   - title: "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation"
-    authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
+    authors: <strong style="color: blue;">Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
     conference_short: arxiv
     conference: arxiv, 2024
     pdf: https://arxiv.org/pdf/2406.07268
