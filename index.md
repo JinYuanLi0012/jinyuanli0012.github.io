@@ -6,7 +6,6 @@ layout: homepage
 
 I am a final-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Previously, I worked as a research intern at [Baidu](https://www.paddlepaddle.org.cn/en) and explored multimodal document understanding. My enthusiasm lies in exploring multimodal machine learning and my recent endeavors revolve around unleashing the latent capabilities of vision-language models within intricate multimodal tasks. The ultimate goal of my research is to explore the multimodal foundational system with higher levels of visual and language intelligence. 
 
-<span style="color: red;">I am seeking a Ph.D. position starting in Spring or Fall 2025. If you have any leads, please get in touch!</span>
 
 ## Research Interests
 
