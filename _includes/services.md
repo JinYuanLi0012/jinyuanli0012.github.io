@@ -7,6 +7,8 @@
   <li><a href="https://2024.emnlp.org/"><autocolor>Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024</autocolor></a></li>
   <li><a href="https://aclrollingreview.org/"><autocolor>ACL Rolling Review (ARR) 2024</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></a></li>
+  <li><a href="https://wacv2025.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</autocolor></a></li>
+  
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
