@@ -4,7 +4,7 @@ main:
     authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
     conference_short: arxiv
     conference: arxiv, 2024
-    pdf: https://arxiv.org/pdf/2406.07268
+    pdf: ./assets/files/ACM_Blind_inpainting.pdf
     code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/RiVEG2.jpg
