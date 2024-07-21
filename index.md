@@ -11,7 +11,7 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 
 ## Research Interests
 
-- **Natural Language Processing:** Large Vision-Language Model Fundation and Application, Multimodal Information Extraction
+- **Natural Language Processing:** Vision-Language Model Fundation and Application, Multimodal Information Extraction
 - **Computer Vision:** Open-world Visual Intelligence, Image Inpainting and Synthesis
 
 ## News🔥
