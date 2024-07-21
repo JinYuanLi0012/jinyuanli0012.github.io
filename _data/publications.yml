@@ -50,5 +50,5 @@ main:
     # pdf: https://arxiv.org/pdf/2406.07268
     # code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
-    image: ./assets/img/WACV.pdf
+    image: ./assets/img/WACV.png
     notes: In Progress
