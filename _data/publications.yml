@@ -34,7 +34,7 @@ main:
     notes: Under Review 
 
   - title: "AFAN: AnAttention-Driven Forgery Adversarial Network for Blind Image Inpainting"
-    authors:  Jiahao Wang, <underline>Jinyuan Li</underline>, Gang Pan, Di Sun, Jiawan Zhang
+    authors:  Jiahao Wang, <strong>Jinyuan Li</strong>, Gang Pan, Di Sun, Jiawan Zhang
     conference_short: arxiv
     conference: arxiv, 2024
     # pdf: https://arxiv.org/pdf/2406.07268
