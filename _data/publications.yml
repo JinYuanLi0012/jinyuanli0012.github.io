@@ -31,7 +31,7 @@ main:
     code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/RiVEG2.jpg
-    notes: Under Review by IEEE Transactions on Multimedia
+    notes: Under Review by IEEE Trans. on Multimedia
 
   - title: "AFAN: AnAttention-Driven Forgery Adversarial Network for Blind Image Inpainting"
     authors:  Jiahao Wang, <strong>Jinyuan Li</strong>, Gang Pan, Di Sun, Jiawan Zhang
@@ -41,7 +41,7 @@ main:
     # code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/Blind_inpainting.png
-    notes: Under Review by IEEE Transactions on Multimedia
+    notes: Under Review by IEEE Trans. on Multimedia
 
   - title: "DSTFuse: Enhancing Deblurring via Style Transfer for Visible and Infrared Image Fusion"
     authors:  Yonglu Liu, Gang Pan, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
