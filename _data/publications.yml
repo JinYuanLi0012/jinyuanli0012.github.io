@@ -1,15 +1,5 @@
 main:
 
-  - title: "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation"
-    authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
-    conference_short: arxiv
-    conference: arxiv, 2024
-    pdf: https://arxiv.org/pdf/2406.07268
-    code: https://github.com/JinYuanLi0012/RiVEG
-    # bibtex: https://arxiv.org/abs/2406.07268
-    image: ./assets/img/RiVEG2.jpg
-    notes: In Progress
-
   - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
     authors: <strong>Jinyuan Li</strong>, Han Li, Di Sun, Jiahao Wang, Wenkun Zhang, Zan Wang, Gang Pan
     conference_short: ACL
@@ -33,4 +23,23 @@ main:
     image: ./assets/img/PGIM.png
     notes: Published
 
+  - title: "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation"
+    authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
+    conference_short: arxiv
+    conference: arxiv, 2024
+    pdf: https://arxiv.org/pdf/2406.07268
+    code: https://github.com/JinYuanLi0012/RiVEG
+    # bibtex: https://arxiv.org/abs/2406.07268
+    image: ./assets/img/RiVEG2.jpg
+    notes: In Progress
+
+  - title: "AFAN: AnAttention-Driven Forgery Adversarial Network for Blind Image Inpainting"
+    authors:  Jiahao Wang, <strong>Jinyuan Li</strong>, Gang Pan, Di Sun, Jiawan Zhang
+    conference_short: arxiv
+    conference: arxiv, 2024
+    # pdf: https://arxiv.org/pdf/2406.07268
+    # code: https://github.com/JinYuanLi0012/RiVEG
+    # bibtex: https://arxiv.org/abs/2406.07268
+    image: ./assets/img/RiVEG2.jpg
+    notes: In Progress
 
