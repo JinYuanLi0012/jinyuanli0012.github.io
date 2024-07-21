@@ -33,7 +33,7 @@ main:
     image: ./assets/img/RiVEG2.jpg
     notes: Under Review
 
-  - title: "AFAN: AnAttention-Driven Forgery Adversarial Network for Blind Image Inpainting"
+  - title: "AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting"
     authors:  Jiahao Wang, <strong>Jinyuan Li</strong>, Gang Pan, Di Sun, Jiawan Zhang
     conference_short: arxiv
     conference: arxiv, 2024
