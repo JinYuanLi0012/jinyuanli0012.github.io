@@ -28,6 +28,14 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 
 {% include_relative _includes/services.md %}
 
+## Awards and Honors
+- **[2022 & 2023]** Second-class Academic Scholarship of Tianjin University
+- **[2021]** Outstanding Students of Taiyuan University of Technology **(Top 2%)**
+- **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
+- **[2020]** Provincial Second Prize in the National College Student Mathematical Modeling Competition
+- **[2020]** Excellent Academic Progress Student of Taiyuan University of Technology
+- **[2019]** Outstanding Student Cadre of Taiyuan University of Technology
+
 ## Miscellaneous
 When I’m not in research mode, I enjoy swimming (Swim one kilometer freestyle in less than 18 minutes) and violin (Fluent sight-reading skills). They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. His interpretation of the music always carries a distinct personal touch. I hope I can approach my research in the same way.
 
