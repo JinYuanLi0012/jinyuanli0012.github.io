@@ -30,7 +30,7 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 
 ## Awards and Honors
 - **[2022 & 2023]** Second-class Academic Scholarship of Tianjin University
-- **[2021]** Outstanding Students of Taiyuan University of Technology **(Top 2%)**
+- **[2021]** Merit Student of Taiyuan University of Technology **(Top 2%)**
 - **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
 - **[2020]** Provincial Second Prize in the National College Student Mathematical Modeling Competition
 - **[2020]** Excellent Academic Progress Student of Taiyuan University of Technology
