@@ -12,7 +12,7 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 ## Research Interests
 
 - **Natural Language Processing:** Vision-Language Model Fundation and Application [[RiVEG](https://arxiv.org/pdf/2402.09989)], Multimodal Information Extraction [[PGIM](https://arxiv.org/pdf/2305.12212)]
-- **Computer Vision:** Open-world Visual Intelligence [[RiVEG+](https://arxiv.org/pdf/2406.07268)], Image Inpainting [[AFAN](https://jinyuanli0012.github.io/)] and Synthesis [[DSTFuse](https://jinyuanli0012.github.io/)]
+- **Computer Vision:** Open-world Visual Intelligence [[SMNER](https://arxiv.org/pdf/2406.07268)], Image Inpainting [[AFAN](https://jinyuanli0012.github.io/)] and Synthesis [[DSTFuse](https://jinyuanli0012.github.io/)]
 
 ## News🔥
 
