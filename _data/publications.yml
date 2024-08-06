@@ -39,7 +39,7 @@ main:
     authors:  Jiahao Wang, <strong>Jinyuan Li</strong>, Gang Pan, Di Sun, Jiawan Zhang
     conference_short: arxiv
     conference: arxiv, 2024
-    pdf: https://jinyuanli0012.github.io/assets/files/ACM_Blind_inpainting.pdf
+    # pdf: https://jinyuanli0012.github.io/assets/files/ACM_Blind_inpainting.pdf
     # code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/Blind_inpainting.png
@@ -49,7 +49,7 @@ main:
     authors:  Yonglu Liu, Gang Pan, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
     conference_short: arxiv
     conference: arxiv, 2024
-    pdf: https://jinyuanli0012.github.io/assets/files/WACV_2025.pdf
+    # pdf: https://jinyuanli0012.github.io/assets/files/WACV_2025.pdf
     code: https://github.com/NaNagi2020/DSTFuse
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/WACV.png
