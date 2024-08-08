@@ -8,7 +8,7 @@ I am a final-year master's student at [Tianjin University](https://www.tju.edu.c
 
 My enthusiasm lies in exploring Multimodal Learning, Vision and Language. My recent series of work ([MNER](https://arxiv.org/pdf/2305.12212)->[GMNER](https://arxiv.org/pdf/2402.09989)->[SMNER](https://arxiv.org/pdf/2406.07268)) explored how to unleash the potential capabilities of visual-language models in complex multimodal scenarios, how to build harmonious interaction and collaboration between multiple models, and how to construct image-text based knowledge augmentation methods in open-world scenarios. Additionally, I also maintain interest in several visual tasks ([Blind Image Inpainting](https://jinyuanli0012.github.io/), [Infrared and Visible Image Fusion](https://github.com/NaNagi2020/DSTFuse)). I'm open to collaboration and discussions. Please feel free to contact me and explore possibilities together.
 
-**I'm looking for a PhD position starting in Spring/Fall 2025 about Multimodal Learning, Natural Language Processing or Computer Vision. Feel free to contact me if you have any leads~**
+**I'm seeking a PhD position starting in Spring or Fall 2025, focusing on areas such as Multimodal Learning, Natural Language Processing, and Computer Vision. If you have any leads, please feel free to reach out!**
 
 
 {% include_relative _includes/Research_Interests.md %}
