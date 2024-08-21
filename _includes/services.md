@@ -8,6 +8,7 @@
   <li><a href="https://aclrollingreview.org/">ACL Rolling Review (ARR) 2024</a></li>
   <li><a href="https://2024.acmmm.org/">ACM Multimedia (ACM MM) 2024</a></li>
   <li><a href="https://wacv2025.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</a></li>
+  <li><a href="https://coling2025.org/">International Conference on Computational Linguistics (COLING) 2025</a></li>
   
 </ul>
 
