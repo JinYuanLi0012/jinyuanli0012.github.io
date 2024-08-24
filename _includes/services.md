@@ -5,10 +5,12 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://2024.aclweb.org/">Annual Meeting of the Association for Computational Linguistics (ACL)</a></li>
   <li><a href="https://2024.emnlp.org/">Conference on Empirical Methods in Natural Language Processing (EMNLP)</a></li>
+  <li><a href="https://2025.naacl.org/">Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</a></li>
+  <li><a href="https://coling2025.org/">International Conference on Computational Linguistics (COLING)</a></li>
   <li><a href="https://aclrollingreview.org/">ACL Rolling Review (ARR)</a></li>
   <li><a href="https://2024.acmmm.org/">ACM Multimedia (ACM MM)</a></li>
   <li><a href="https://wacv2025.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a></li>
-  <li><a href="https://coling2025.org/">International Conference on Computational Linguistics (COLING)</a></li>
+
   
 </ul>
 
