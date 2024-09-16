@@ -46,7 +46,7 @@ main:
     notes: Under Review (IEEE TMM)
 
   - title: "DSTFuse: Enhancing Deblurring via Style Transfer for Visible and Infrared Image Fusion"
-    authors:  Yonglu Liu, Gang Pan, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
+    authors:  Gang Pan, Yonglu Liu, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
     conference_short: arxiv
     conference: arxiv, 2024
     # pdf: https://jinyuanli0012.github.io/assets/files/WACV_2025.pdf
