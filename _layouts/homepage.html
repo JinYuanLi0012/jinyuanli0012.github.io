@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -36,13 +37,14 @@
 
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper" style="font-size:16px;">
+
+      
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" style="width: 140px; height: 168px;" /></a>
-        {% endif %} 
-
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        {% endif %}
 
         <h1>{{ site.title }}</h1>
 
@@ -100,11 +102,11 @@
 
       <br>
 
-           </section>
+      </section>
       <footer>
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LGogeTOHha4Qd53igRj47-oTG7q0yXWuinJF3YFjEpo"></script>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
-</html>  
+</html>
