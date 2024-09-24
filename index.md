@@ -22,7 +22,7 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/experience.md %}
+
 ## Experience
 
 - **[Apr. 2024 - Jun. 2024]** [Baidu](https://www.paddlepaddle.org.cn/en), Research Intern
