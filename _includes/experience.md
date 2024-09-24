@@ -20,7 +20,6 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
   </div>
-</div>
 </li>
 
 <br>
