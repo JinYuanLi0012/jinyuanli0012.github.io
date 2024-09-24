@@ -1,0 +1,7 @@
+main:
+
+  - title: "LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition"
+    authors: <strong>Jinyuan Li</strong>, Han Li, Di Sun, Jiahao Wang, Wenkun Zhang, Zan Wang, Gang Pan
+    conference_short: ACL
+    image: ./assets/img/RiVEG_Head.jpg
+  
