@@ -31,8 +31,8 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 {% include_relative _includes/services.md %}
 
 ## Awards and Honors
-- **[2024]** First-class Academic Scholarship of Tianjin University **(<span style="color:red">Ranked \#1 in College</span>)**
-- **[2024]** Excellent Student of Tianjin University **(<span style="color:red">Ranked \#1 in College</span>)**
+- **[2024]** First-class Academic Scholarship of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
+- **[2024]** Excellent Student of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
 - **[2022 & 2023]** Second-class Academic Scholarship of Tianjin University
 - **[2021]** Excellent Student of Taiyuan University of Technology **(<span style="color:red">Top 2%</span>)**
 - **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
