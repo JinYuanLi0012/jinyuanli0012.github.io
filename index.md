@@ -42,5 +42,5 @@ I'm open to collaboration and discussions. Please feel free to contact me and ex
 ## Miscellaneous
 When I’m not in research mode, I enjoy swimming (Swim one kilometer freestyle in less than 18 minutes) and violin (Fluent sight-reading skills). They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. His interpretation of the music always carries a distinct personal touch. I hope I can approach my research in the same way.
 
-In the past, I demonstrated good road cycling ability (being able to maintain a speed of 36 km/h for two hours), but I no longer continue this sport. Additionally, I found being an anchor very engaging.
+In the past, I demonstrated good road cycling ability (being able to maintain a speed of 36 km/h for two hours), but I no longer continue this sport.
 
