@@ -31,9 +31,9 @@ I am more concerned about the problems that are worth solving rather than limiti
 {% include_relative _includes/services.md %}
 
 ## Awards and Honors
-- **[2024]** First-class Academic Excellence Scholarship of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
+- **[2024]** (First-class) Academic Excellence Scholarship of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
 - **[2024]** Excellent Student of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
-- **[2022 & 2023]** Second-class Academic Excellence Scholarship of Tianjin University
+- **[2022 & 2023]** (Second-class) Academic Excellence Scholarship of Tianjin University
 - **[2021]** Excellent Student of Taiyuan University of Technology **(<span style="color:red">Top 2%, 3/128</span>)**
 - **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
 - **[2020]** Excellent Academic Progress Student of Taiyuan University of Technology
