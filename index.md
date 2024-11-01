@@ -33,9 +33,9 @@ I am more concerned about the problems that are worth solving rather than limiti
 ## Awards and Honors
 - **[2024]** China National Scholarship **(<span style="color:red">Top 1%, Ranked #1 in CS Major</span>)**
 - **[2024]** (First-class) Academic Excellence Scholarship of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
-- **[2024]** Excellent Student of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
+- **[2024]** Outstanding Student of Tianjin University **(<span style="color:red">Ranked #1 in CS Major</span>)**
 - **[2022 & 2023]** (Second-class) Academic Excellence Scholarship of Tianjin University
-- **[2021]** Excellent Student of Taiyuan University of Technology **(<span style="color:red">Top 2%, 3/128</span>)**
+- **[2021]** Outstanding Student of Taiyuan University of Technology **(<span style="color:red">Top 2%, 3/128</span>)**
 - **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
 - **[2020]** Excellent Academic Progress Student of Taiyuan University of Technology
 - **[2019]** Outstanding Student Cadre of Taiyuan University of Technology
