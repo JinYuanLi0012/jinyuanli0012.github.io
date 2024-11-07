@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Previously, I worked as a research intern at [Baidu](https://www.paddlepaddle.org.cn/en) and explored [multimodal document understanding](https://github.com/PaddlePaddle/PaddleOCR). I also received guidance from Prof. [Jianfei Yu](https://sites.google.com/site/jfyu1990/) during my research journey.
+I am a final-year master's student at [Tianjin University](https://www.tju.edu.cn/english/index.htm), under the mentorship of Prof. [Gang Pan](https://gpantju.github.io/index/). Previously, I worked as a research intern at [Baidu](https://www.paddlepaddle.org.cn/en) and explored [multimodal document understanding](https://github.com/PaddlePaddle/PaddleOCR). 
 
 My enthusiasm broadly lies in exploring Multimodal Learning, Natural Language Processing and Computer Vision. My recent series of multimodal research ([MNER](https://arxiv.org/pdf/2305.12212)->[GMNER](https://arxiv.org/pdf/2402.09989)->[SMNER](https://arxiv.org/pdf/2406.07268)) explored how to unleash the potential capabilities of visual-language models in complex multimodal scenarios, how to build harmonious interaction and collaboration between multiple models, and how to construct image-text based knowledge augmentation methods in open-world scenarios. Additionally, I also maintain interest in several visual tasks (e.g., [Blind Image Inpainting](https://jinyuanli0012.github.io/), [Infrared and Visible Image Fusion](https://github.com/NaNagi2020/DSTFuse)). 
 
