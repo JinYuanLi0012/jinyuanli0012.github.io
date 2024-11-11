@@ -38,8 +38,6 @@ I am more concerned about the problems that are worth solving rather than limiti
 - **[2022 & 2023]** (Second-class) Academic Excellence Scholarship of Tianjin University
 - **[2021]** Outstanding Student of Taiyuan University of Technology **(<span style="color:red">Top 2%, 3/128</span>)**
 - **[2020 & 2021]** Academic Excellence Scholarship of Taiyuan University of Technology
-- **[2020]** Excellent Academic Progress Student of Taiyuan University of Technology
-- **[2019]** Outstanding Student Cadre of Taiyuan University of Technology
 
 ## Miscellaneous
 When I’m not in research mode, I enjoy swimming (Swim one kilometer freestyle in less than 18 minutes) and violin (Fluent sight-reading skills). They have been with me for nearly twenty years. My favorite virtuoso is Ray Chen. His interpretation of the music always carries a distinct personal touch. I hope I can approach my research in the same way.
