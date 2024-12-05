@@ -35,6 +35,16 @@ main:
     image: ./assets/img/RiVEG2.jpg
     notes: Under Review (IEEE TMM)
 
+  - title: "VP-MEL: Visual Prompts Guided Multimodal Entity Linking"
+    authors: Hongze Mi, <strong>Jinyuan Li</strong>, Xuying Zhang, Haoran Cheng, Jiahao Wang, Di Sun, Gang Pan
+    conference_short: arxiv
+    conference: arxiv, 2024
+    #pdf: https://arxiv.org/pdf/2406.07268
+    #code: https://github.com/JinYuanLi0012/RiVEG
+    # bibtex: https://arxiv.org/abs/2406.07268
+    image: ./assets/img/VPMELmain.jpg
+    notes: Under Review
+
   - title: "AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting"
     authors:  Jiahao Wang, Gang Pan, Di Sun, <strong>Jinyuan Li</strong>, Jiawan Zhang
     conference_short: arxiv
