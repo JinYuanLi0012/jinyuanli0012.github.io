@@ -18,7 +18,7 @@ I am more concerned about the problems that are worth solving rather than limiti
 - **[Jun. 2024]** We release a [new study](https://arxiv.org/abs/2406.07268) proposing the Segmented Multimodal Named Entity Recognition (SMNER) task and constructing the corresponding Twitter-SMNER dataset. Datasets and Code will be released at [here](https://github.com/JinYuanLi0012/RiVEG).
 - **[May. 2024]** One paper is accepted to [ACL 2024](https://2024.aclweb.org/). See you in Bangkok!
 - **[Apr. 2024]** Delighted to be onboard at Baidu as a research intern.
-- **[Feb. 2024]** A new research about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Models has been released! see [here](https://arxiv.org/abs/2402.09989).
+- **[Feb. 2024]** A [new research](https://arxiv.org/abs/2402.09989) about Grounded Multimodal Named Entity Recognition (GMNER) and Large Language Models has been released!
 - **[Oct. 2023]** One paper about Multimodal Named Entity Recognition (MNER) is accepted to [EMNLP 2023](https://2023.emnlp.org/).
 
 {% include_relative _includes/publications.md %}
