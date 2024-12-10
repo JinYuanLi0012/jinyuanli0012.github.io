@@ -39,7 +39,7 @@ main:
     authors: Hongze Mi, <strong>Jinyuan Li</strong>, Xuying Zhang, Haoran Cheng, Jiahao Wang, Di Sun, Gang Pan
     conference_short: arxiv
     conference: arxiv, 2024
-    #pdf: https://arxiv.org/pdf/2406.07268
+    pdf: https://arxiv.org/pdf/2412.06720
     #code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/VPMELmain.jpg
