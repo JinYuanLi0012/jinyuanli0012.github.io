@@ -49,7 +49,7 @@ main:
     authors:  Jiahao Wang, Gang Pan, Di Sun, <strong>Jinyuan Li</strong>, Jiawan Zhang
     conference_short: arxiv
     conference: arxiv, 2024
-    # pdf: https://jinyuanli0012.github.io/assets/files/ACM_Blind_inpainting.pdf
+    pdf: https://jinyuanli0012.github.io/assets/files/TMM-AFAN.pdf
     # code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/Blind_inpainting.png
