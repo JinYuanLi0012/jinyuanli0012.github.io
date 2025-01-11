@@ -43,7 +43,7 @@ main:
     #code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/VPMELmain.jpg
-    notes: Under Review
+    notes: Under Review (ACL ARR December)
 
   - title: "AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting"
     authors:  Jiahao Wang, Gang Pan, Di Sun, <strong>Jinyuan Li</strong>, Jiawan Zhang
@@ -53,7 +53,7 @@ main:
     # code: https://github.com/JinYuanLi0012/RiVEG
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/Blind_inpainting.png
-    notes: Under Review (IEEE TMM)
+    notes: Under Review (IEEE TMM, Major Revision)
 
   - title: "DSTFuse: Enhancing Deblurring via Style Transfer for Visible and Infrared Image Fusion"
     authors:  Gang Pan, Yonglu Liu, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
