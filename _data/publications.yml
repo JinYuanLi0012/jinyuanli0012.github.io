@@ -59,7 +59,7 @@ main:
     authors:  Gang Pan, Yonglu Liu, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
     conference_short: arxiv
     conference: arxiv, 2024
-    # pdf: https://jinyuanli0012.github.io/assets/files/WACV_2025.pdf
+    pdf: https://jinyuanli0012.github.io/assets/files/WACV_2025.pdf
     code: https://github.com/NaNagi2020/DSTFuse
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/WACV.png
