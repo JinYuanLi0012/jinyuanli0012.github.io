@@ -14,6 +14,7 @@ I am more concerned about the problems that are worth solving rather than limiti
 
 ## News🔥
 
+- **[Jan. 2025]** [One paper](https://jinyuanli0012.github.io/assets/files/TMM_AFAN.pdf) about Blind Image Inpainting is accepted to IEEE Trans. on Multimedia.
 - **[Dec. 2024]** A [new study](https://arxiv.org/abs/2412.06720) has been released, in which we propose a new VP-MEL task and available dataset that aims to balance the status of different modalities in MEL.
 - **[Nov. 2024]** I am honored to have received three top honors at Tianjin University (Ranked #1 in CS Department): the China National Scholarship, the First-Class Academic Excellence Scholarship, and the Outstanding (Sanhao) Student Award.
 - **[Jun. 2024]** We release a [new study](https://arxiv.org/abs/2406.07268) proposing the Segmented Multimodal Named Entity Recognition (SMNER) task and constructing the corresponding Twitter-SMNER dataset. Datasets and Code will be released at [here](https://github.com/JinYuanLi0012/RiVEG).
