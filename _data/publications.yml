@@ -25,6 +25,16 @@ main:
     image: ./assets/img/PGIM.png
     notes: Published
 
+  - title: "AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting"
+    authors: Jiahao Wang, Gang Pan, Di Sun, <strong>Jinyuan Li</strong>, Jiawan Zhang
+    conference_short: IEEE TMM
+    conference: IEEE Transactions on Multimedia
+    pdf: https://jinyuanli0012.github.io/assets/files/TMM_AFAN.pdf
+    # code: https://github.com/JinYuanLi0012/RiVEG
+    # bibtex: https://arxiv.org/abs/2406.07268
+    image: ./assets/img/Blind_inpainting.png
+    notes: Published
+
   - title: "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation"
     authors: <strong>Jinyuan Li</strong>, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan
     conference_short: arxiv
@@ -44,16 +54,6 @@ main:
     # bibtex: https://arxiv.org/abs/2406.07268
     image: ./assets/img/VPMELmain.jpg
     notes: Under Review (ACL ARR December)
-
-  - title: "AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting"
-    authors:  Jiahao Wang, Gang Pan, Di Sun, <strong>Jinyuan Li</strong>, Jiawan Zhang
-    conference_short: arxiv
-    conference: arxiv, 2024
-    pdf: https://jinyuanli0012.github.io/assets/files/TMM-AFAN.pdf
-    # code: https://github.com/JinYuanLi0012/RiVEG
-    # bibtex: https://arxiv.org/abs/2406.07268
-    image: ./assets/img/Blind_inpainting.png
-    notes: Under Review (IEEE Trans. on Multimedia, Major Revision)
 
   - title: "DSTFuse: Enhancing Deblurring via Style Transfer for Visible and Infrared Image Fusion"
     authors:  Gang Pan, Yonglu Liu, <strong>Jinyuan Li</strong>, Zhenjun Han, Jiahao Wang, Di Sun
